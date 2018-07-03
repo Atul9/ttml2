@@ -16,7 +16,7 @@ This branch was automatically built by Travis CI. <b>DO NOT EDIT</b>.
  Pull request: [#871](https://github.com/w3c/ttml2/pull/871)
 
 
- Commit: [2e710ffc09bc756dd1f11ad470f3ad138f14175d](https://github.com/w3c/ttml2/commit/2e710ffc09bc756dd1f11ad470f3ad138f14175d)
+ Commit: [3367325937bfdf4188798ea666f7115553c2f081](https://github.com/w3c/ttml2/commit/3367325937bfdf4188798ea666f7115553c2f081)
 
 Pull request specification can be previewed at https://rawgit.com/w3c/ttml2/issue-0870-line-height-normal-build/index.html
 
