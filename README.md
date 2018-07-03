@@ -16,7 +16,7 @@ This branch was automatically built by Travis CI. <b>DO NOT EDIT</b>.
  Pull request: [#873](https://github.com/w3c/ttml2/pull/873)
 
 
- Commit: [207d3da1381929f7fb68ddda92ec030e169314dc](https://github.com/w3c/ttml2/commit/207d3da1381929f7fb68ddda92ec030e169314dc)
+ Commit: [989aacd2fe112c92611ad1e167f038857ec62f5a](https://github.com/w3c/ttml2/commit/989aacd2fe112c92611ad1e167f038857ec62f5a)
 
 Pull request specification can be previewed at https://rawgit.com/w3c/ttml2/issue-0872-unicode-bidi-isolate-build/index.html
 
