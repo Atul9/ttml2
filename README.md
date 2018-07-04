@@ -16,7 +16,7 @@ This branch was automatically built by Travis CI. <b>DO NOT EDIT</b>.
  Pull request: [#867](https://github.com/w3c/ttml2/pull/867)
 
 
- Commit: [61a4ebbaca3252c823aa129bb3f00ef70b080612](https://github.com/w3c/ttml2/commit/61a4ebbaca3252c823aa129bb3f00ef70b080612)
+ Commit: [8cbd802f06f70944e47852ca1eb31dcca1189f17](https://github.com/w3c/ttml2/commit/8cbd802f06f70944e47852ca1eb31dcca1189f17)
 
 Pull request specification can be previewed at https://rawgit.com/w3c/ttml2/issue-0860-profile-constancy-build/index.html
 
