@@ -338,9 +338,9 @@ background-color: #ffff33;
 border: 2px solid black;
 width: 100%;
 }
-    </style><link rel="stylesheet" type="text/css" href="https://www.w3.org/StyleSheets/TR/2016/W3C-ED"><link rel="canonical" href="https://w3c.github.io/ttml2/index.html"></head><body>Commit: 70549ca Merge 39c502167f37689c2ec936351273dfa7262fb664 into 83583eca660435c38db17bc43eb4257da937ad75<div id="revisions"></div><div class="head">
+    </style><link rel="stylesheet" type="text/css" href="https://www.w3.org/StyleSheets/TR/2016/W3C-ED"><link rel="canonical" href="https://w3c.github.io/ttml2/index.html"></head><body>Commit: e41cc7b Merge 78752dd15d94ce34108f24c0c0135d933ddd9fec into 83583eca660435c38db17bc43eb4257da937ad75<div id="revisions"></div><div class="head">
 <h1><a id="title"></a>Timed Text Markup Language 2 (TTML2)</h1>
-<h2><a id="w3c-doctype"></a>W3C Proposed Recommendation 15 July 2018</h2><dl><dt>This version:</dt><dd>
+<h2><a id="w3c-doctype"></a>W3C Proposed Recommendation 16 July 2018</h2><dl><dt>This version:</dt><dd>
 <a href="https://w3c.github.io/ttml2/index.html">https://w3c.github.io/ttml2/index.html</a>
 </dd><dt>Latest editor's draft:</dt><dd><a href="https://w3c.github.io/ttml2/index.html">https://w3c.github.io/ttml2/index.html</a></dd><dt>Latest version:</dt><dd><a href="https://www.w3.org/TR/ttml2/">https://www.w3.org/TR/ttml2/</a></dd><dt>Latest recommendation:</dt><dd><a href="https://www.w3.org/TR/ttml1/">https://www.w3.org/TR/ttml1/</a></dd><dt>Previous version:</dt><dd>
 <a href="https://www.w3.org/TR/2018/CR-ttml2-20180313/">https://www.w3.org/TR/2018/CR-ttml2-20180313/</a>
@@ -7631,7 +7631,7 @@ and the resulting generated out-of-line region is shown by the following example
 &lt;tt xml:lang="" xmlns="http://www.w3.org/ns/ttml"&gt;
   &lt;head/&gt;
   &lt;body&gt;
-    &lt;div begin="5s" end="15s"&gt;
+    &lt;div begin="5s" dur="10s"&gt;
       <span class="strong">&lt;region tts:extent="540px 100px" tts:origin="50px 339px"/&gt;</span>
       &lt;p&gt;Some Content&lt;/p&gt;
     &lt;div/&gt;
@@ -7643,12 +7643,11 @@ and the resulting generated out-of-line region is shown by the following example
 &lt;tt xml:lang="" xmlns="http://www.w3.org/ns/ttml"&gt;
   &lt;head&gt;
     <span class="strong">&lt;layout&gt;
-      &lt;region xml:id="region3451" begin="5s" end="15s"
-        tts:extent="540px 100px" tts:origin="50px 339px"/&gt;
+      &lt;region xml:id="region3451" begin="5s" dur="10s" tts:extent="540px 100px" tts:origin="50px 339px"/&gt;
     &lt;/layout&gt;</span>
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;div begin="5s" end="15s" <span class="strong">region="region3451"</span>&gt;
+    &lt;div begin="5s" dur="10s" <span class="strong">region="region3451"</span>&gt;
       &lt;p&gt;Some Content&lt;/p&gt;
     &lt;div/&gt;
   &lt;body/&gt;
