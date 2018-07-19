@@ -16,7 +16,7 @@ This branch was automatically built by Travis CI. <b>DO NOT EDIT</b>.
  Pull request: [#914](https://github.com/w3c/ttml2/pull/914)
 
 
- Commit: [7b2e0e35da8c2f925e36f3e88e7c409794d6bc13](https://github.com/w3c/ttml2/commit/7b2e0e35da8c2f925e36f3e88e7c409794d6bc13)
+ Commit: [04a14d27182c6d55245111ef44ea46f8760166ef](https://github.com/w3c/ttml2/commit/04a14d27182c6d55245111ef44ea46f8760166ef)
 
 Pull request specification can be previewed at https://rawgit.com/w3c/ttml2/issue-0881-style-animation-build/index.html
 
