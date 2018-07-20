@@ -16,7 +16,7 @@ This branch was automatically built by Travis CI. <b>DO NOT EDIT</b>.
  Pull request: [#902](https://github.com/w3c/ttml2/pull/902)
 
 
- Commit: [8092a0834181091236f06843a4c1e51a7240b53a](https://github.com/w3c/ttml2/commit/8092a0834181091236f06843a4c1e51a7240b53a)
+ Commit: [d52c64e18b86b5de9bbde665f13f31519a3a9835](https://github.com/w3c/ttml2/commit/d52c64e18b86b5de9bbde665f13f31519a3a9835)
 
 Pull request specification can be previewed at https://rawgit.com/w3c/ttml2/issue-0901-acknowledgments-build/index.html
 
