@@ -16,7 +16,7 @@ This branch was automatically built by Travis CI. <b>DO NOT EDIT</b>.
  Pull request: [#920](https://github.com/w3c/ttml2/pull/920)
 
 
- Commit: [c37f289fcfff5c1448968e091f0aefc75e4ccd97](https://github.com/w3c/ttml2/commit/c37f289fcfff5c1448968e091f0aefc75e4ccd97)
+ Commit: [8fe2d1faa92a1775f5f89ce8a00761ca95b51c67](https://github.com/w3c/ttml2/commit/8fe2d1faa92a1775f5f89ce8a00761ca95b51c67)
 
 Pull request specification can be previewed at https://rawgit.com/w3c/ttml2/issue-0919-isd-extent-build/index.html
 
