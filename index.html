@@ -2752,8 +2752,8 @@ implicit duration of the <code>body</code> element of the document, if the <code
 element, then it must adhere to <a href="#style-attribute-extent"><b>10.2.16 tts:extent</b></a>, in which case it
 specifies the <a title="" href="#defs-spatial-extent">spatial extent</a> of the <a href="#terms-root-container-region">root container region</a> in
 which <a href="#terms-content-region">content regions</a> are located and presented. If no <code>tts:extent</code>
-attribute is specified, then the <a title="" href="#defs-spatial-extent">spatial extent</a> of the <a href="#terms-root-container-region">root container region</a> is
-determined by rules specified in <a href="#root-container-region-semantics"><b>H Root Container Region Semantics</b></a>.
+attribute is specified, then the <a title="" href="#defs-spatial-extent">spatial extent</a> of the
+<a href="#terms-root-container-region">root container region</a> is determined by rules specified in <a href="#root-container-region-semantics"><b>H Root Container Region Semantics</b></a>.
 The origin of the <a href="#terms-root-container-region">root container region</a> is determined by the <a href="#terms-document-processing-context">document processing context</a>.</p><div class="note"><p class="prefix"><b>Note:</b></p><p>In the absence of other requirements, and if a <a href="#terms-related-media-object">related media object</a> exists, then it is recommended
 that the <a href="#terms-document-processing-context">document processing context</a> determine that:</p><ul><li><p>the origin of the <a href="#terms-root-container-region">root container region</a> be established so that this region is centered in the
 <a href="#terms-related-media-object-region">related media object region</a>.</p></li></ul></div><div class="note"><p class="prefix"><b>Note:</b></p><p>If an author desires to signal the (storage or image) aspect ratio of the <a href="#terms-root-container-region">root container region</a>
@@ -11368,13 +11368,14 @@ the number of rows signifies the resolution of the root container region on the 
 former is defined to be the <a href="#terms-width">width</a> and the
 latter is defined to be the <a href="#terms-height">height</a> of the root container region, respectively,
 and where the collection of (these two) resolutions along both axes is referred to as the
-<a id="defs-spatial-extent" title=""><em>spatial extent</em></a> (also called the
-<a id="defs-collective-resolution" title=""><em>collective resolution</em></a>) of the root container region.</p><p>If the value of the <a href="#style-attribute-extent">tts:extent</a> attribute
+<a id="defs-collective-resolution" title=""><em>collective resolution</em></a>, also called the
+<a id="defs-spatial-extent" title=""><em>spatial extent</em></a>, of the root container region.</p><p>If the value of the <a href="#style-attribute-extent">tts:extent</a> attribute
 is specified on the <a href="#document-structure-vocabulary-tt"><code>tt</code></a> element and consists of
 two pixel-valued <a href="#style-value-length">&lt;length&gt;</a> expressions, then these two expressions denote
 the <a href="#terms-width">width</a> and <a href="#terms-height">height</a> of the root container region, and,
-consequently, determine its <a title="" href="#defs-spatial-extent">spatial extent</a>;
-otherwise, the <a title="" href="#defs-spatial-extent">spatial extent</a> of the root container region is determined (arbitrarily) by the <a href="#terms-document-processing-context">document
+consequently, determine its <a title="" href="#defs-collective-resolution">collective resolution</a>;
+otherwise, the <a title="" href="#defs-collective-resolution">collective resolution</a> of the root container region is determined (arbitrarily)
+by the <a href="#terms-document-processing-context">document
 processing context</a> in a manner that respects the resolved values of <code>SAR</code> as determined by
 <a href="#root-container-region-semantics-aspect-ratios"><b>H.1 Aspect Ratios</b></a> above.</p><div class="note"><p class="prefix"><b>Note:</b></p><p>In the case that the <a href="#terms-document-processing-context">document processing context</a> assigns an arbitrary
 resolution to the <a href="#terms-root-container-region">root container region</a>, then it may do so in any manner that is convenient
@@ -11684,7 +11685,8 @@ begin time; furthermore, the temporal intervals of any two child <a href="#isd-v
 </pre></div>
 </td></tr></tbody></table><p>If the <code>extent</code> attribute is specified, then it must adhere to the subset of the <a href="#style-value-extent">&lt;extent&gt;</a> value
 syntax that consists of two pixel-valued <a href="#style-value-length">&lt;length&gt;</a> expressions, in which case, the specified value
-expresses the <a title="" href="#defs-spatial-extent">spatial extent</a> of the root container region as defined by <a href="#root-container-region-semantics-resolution"><b>H.2 Resolution</b></a>,
+expresses the <a title="" href="#defs-spatial-extent">spatial extent</a> of the root container region as defined by
+<a href="#root-container-region-semantics-resolution"><b>H.2 Resolution</b></a>,
 where this <a title="" href="#defs-spatial-extent">spatial extent</a> applies globally to each each constituent
 <a href="#terms-intermediate-synchronic-document">Intermediate Synchronic Document</a> represented by a child <code>isd:isd</code> element.</p><p>If the <code>size</code> attribute is specified, then it must be a non-negative integer corresponding to the number of
 <a href="#isd-vocabulary-isd"><code>isd:isd</code></a> child elements.
@@ -11744,8 +11746,9 @@ otherwise (the value is <code>indefinite</code>), the temporal extent is not kno
 or there is no temporal end point.</p><div class="note"><p class="prefix"><b>Note:</b></p><p>Expressed in the terminology of <a href="#smil3">[SMIL 3.0]</a>, the values of these <code>begin</code> and <code>end</code> attributes
 correspond to the resolved begin and end times of the <em>active duration</em> with respect to the <em>document begin</em>.</p></div><p>If the <code>extent</code> attribute is specified, then it must adhere to the subset of the <a href="#style-value-extent">&lt;extent&gt;</a> value
 syntax that consists of two pixel-valued <a href="#style-value-length">&lt;length&gt;</a> expressions, in which case, the specified value
-expresses the <a title="" href="#defs-spatial-extent">spatial extent</a> of the root container region as defined by <a href="#root-container-region-semantics-resolution"><b>H.2 Resolution</b></a>,
-where this <a title="" href="#defs-spatial-extent">spatial extent</a> applies to the <a href="#terms-intermediate-synchronic-document">Intermediate Synchronic Document</a>
+expresses the <a title="" href="#defs-spatial-extent">spatial extent</a> of the root container region as defined by
+<a href="#root-container-region-semantics-resolution"><b>H.2 Resolution</b></a>, where this <a title="" href="#defs-spatial-extent">spatial extent</a>
+applies to the <a href="#terms-intermediate-synchronic-document">Intermediate Synchronic Document</a>
 represented by this <code>isd:isd</code> element. Furthermore,
 if this <a href="#isd-vocabulary-isd"><code>isd:isd</code></a> element is contained in an
 <a href="#terms-intermediate-synchronic-document-sequence">Intermediate Synchronic Document Sequence</a> document, then
