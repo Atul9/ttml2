@@ -16,7 +16,7 @@ This branch was automatically built by Travis CI. <b>DO NOT EDIT</b>.
  Pull request: [#924](https://github.com/w3c/ttml2/pull/924)
 
 
- Commit: [8fb62b7a21adebf2fe214c091ecbe9eb48585f26](https://github.com/w3c/ttml2/commit/8fb62b7a21adebf2fe214c091ecbe9eb48585f26)
+ Commit: [9aed79fdca3d8777321443e3bb4287101c3fb5f3](https://github.com/w3c/ttml2/commit/9aed79fdca3d8777321443e3bb4287101c3fb5f3)
 
 Pull request specification can be previewed at https://rawgit.com/w3c/ttml2/issue-0882-ruby-position-build/index.html
 
