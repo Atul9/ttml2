@@ -16,7 +16,7 @@ This branch was automatically built by Travis CI. <b>DO NOT EDIT</b>.
  Pull request: [#900](https://github.com/w3c/ttml2/pull/900)
 
 
- Commit: [9c9a3efb6b2e938d098eff732dcdbca45f791943](https://github.com/w3c/ttml2/commit/9c9a3efb6b2e938d098eff732dcdbca45f791943)
+ Commit: [7993bcc8146f39d03e544cddb0b13f15da494f51](https://github.com/w3c/ttml2/commit/7993bcc8146f39d03e544cddb0b13f15da494f51)
 
 Pull request specification can be previewed at https://rawgit.com/w3c/ttml2/issue-0893-condition-build/index.html
 
