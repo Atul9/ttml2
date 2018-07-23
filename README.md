@@ -16,7 +16,7 @@ This branch was automatically built by Travis CI. <b>DO NOT EDIT</b>.
  Pull request: [#911](https://github.com/w3c/ttml2/pull/911)
 
 
- Commit: [ff192ae29af103e51f306ac38363c0728731f70d](https://github.com/w3c/ttml2/commit/ff192ae29af103e51f306ac38363c0728731f70d)
+ Commit: [8c8fd513defdeb035d15f130430c8229d7eca67e](https://github.com/w3c/ttml2/commit/8c8fd513defdeb035d15f130430c8229d7eca67e)
 
 Pull request specification can be previewed at https://rawgit.com/w3c/ttml2/issue-0903-inline-regions-build/index.html
 
