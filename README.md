@@ -16,7 +16,7 @@ This branch was automatically built by Travis CI. <b>DO NOT EDIT</b>.
  Pull request: [#921](https://github.com/w3c/ttml2/pull/921)
 
 
- Commit: [777ccb96dc7b3634645c1687a53a92d8d67287c2](https://github.com/w3c/ttml2/commit/777ccb96dc7b3634645c1687a53a92d8d67287c2)
+ Commit: [bada4fe07726986806e4cf690d1047e92d3047ad](https://github.com/w3c/ttml2/commit/bada4fe07726986806e4cf690d1047e92d3047ad)
 
 Pull request specification can be previewed at https://rawgit.com/w3c/ttml2/issue-0917-border-animation-build/index.html
 
