@@ -16,7 +16,7 @@ This branch was automatically built by Travis CI. <b>DO NOT EDIT</b>.
  Pull request: [#928](https://github.com/w3c/ttml2/pull/928)
 
 
- Commit: [861471c616c1c7184295ec1646a38e248b461023](https://github.com/w3c/ttml2/commit/861471c616c1c7184295ec1646a38e248b461023)
+ Commit: [3cb99d3e808a160fc85448eaa5c7fac780152436](https://github.com/w3c/ttml2/commit/3cb99d3e808a160fc85448eaa5c7fac780152436)
 
 Pull request specification can be previewed at https://rawgit.com/w3c/ttml2/issue-0926-clarify-conditional-exclusion-build/index.html
 
