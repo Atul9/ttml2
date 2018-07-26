@@ -16,7 +16,7 @@ This branch was automatically built by Travis CI. <b>DO NOT EDIT</b>.
  Pull request: [#933](https://github.com/w3c/ttml2/pull/933)
 
 
- Commit: [731a9b999bb2135d8f995aed3112bd36b5afcdf9](https://github.com/w3c/ttml2/commit/731a9b999bb2135d8f995aed3112bd36b5afcdf9)
+ Commit: [98fa071898d81f1ce8a9a21a585c07493600151b](https://github.com/w3c/ttml2/commit/98fa071898d81f1ce8a9a21a585c07493600151b)
 
 Pull request specification can be previewed at https://rawgit.com/w3c/ttml2/issue-0931-changes-build/index.html
 
